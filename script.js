@@ -38,11 +38,11 @@ function createGrid(size) {
         row.classList = 'row';
         row.style.height = `${600/size}px`
         for (let x = 0; x < size; x++){
-            const gridBox = document.createElement('div');
-            gridBox.classList = 'gridBox';
-            gridBox.style.height = `${600/size}px`;
-            gridBox.style.width = `${600/size}px`;
-            row.appendChild(gridBox);
+            const pixel = document.createElement('div');
+            pixel.classList = 'gridBox';
+            pixel.style.height = `${600/size}px`;
+            pixel.style.width = `${600/size}px`;
+            row.appendChild(pixel);
         }
         grid.appendChild(row);
     }
