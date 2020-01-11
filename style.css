@@ -1,0 +1,14 @@
+#container {
+    background-color: #eee;
+    margin: 1em;
+    text-align: center;
+    padding:1em;
+}
+#EASgrid {
+    grid-template-columns: 16;
+
+}
+.gridBox {
+    display:inline-block;
+    border: 1px solid black;
+}
