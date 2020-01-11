@@ -1,4 +1,8 @@
 # Etch-a-Sketch-Project
+
+This is a project for The Odin Project. https://theodinproject.com
+
+
 Create a webpage with a 16x16 grid of square divs
 
     Create the divs using JavaScript… don’t try making them by hand with copy and pasting in your html file!
