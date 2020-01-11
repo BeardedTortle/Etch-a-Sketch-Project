@@ -1,6 +1,6 @@
 # Etch-a-Sketch-Project
 
-This is a project for The Odin Project. https://theodinproject.com
+This is a project for The Odin Project. https://www.theodinproject.com
 
 
 Create a webpage with a 16x16 grid of square divs
